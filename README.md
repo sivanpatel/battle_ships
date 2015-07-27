@@ -6,7 +6,7 @@ Board | Ship_inside_board?
       | Hit?
       | Overlap?
       | Sunk?
-      | Gamer_over?
+      | Game_over?
       | Overview
       | Receive_ship
 Player| Place
