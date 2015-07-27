@@ -11,3 +11,4 @@ Board | Ship_inside_board?
       | Receive_ship
 Player| Place
       | Fire
+      | Select_ship
