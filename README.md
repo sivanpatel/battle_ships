@@ -8,5 +8,6 @@ Board | Ship_inside_board?
       | Sunk?
       | Gamer_over?
       | Overview
+      | Receive_ship
 Player| Place
       | Fire
